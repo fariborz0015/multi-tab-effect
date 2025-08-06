@@ -1,5 +1,5 @@
 # 🎯 Multi-Tab Effect
-
+![Alt text](image.png)
 A modern, interactive web application that demonstrates synchronized ball movement across multiple browser tabs. When you open this page in multiple tabs and position the windows close to each other, the balls will automatically synchronize and move to the edges, creating a fascinating visual effect.
 
 ## ✨ Features
